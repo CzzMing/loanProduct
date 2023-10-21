@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "global-config.db-config.id-type",
+      "type": "java.lang.String",
+      "description": "Description for global-config.db-config.id-type."
+  }
+] }
